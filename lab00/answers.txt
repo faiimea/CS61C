@@ -1,4 +1,10 @@
-1.
-2.
-3.
-4.
+1.ls-l
+2.mv <source-file-path> <destination-directory-path>
+3.chmod <permissions> <file-path>
+4.pwd
+5.ping <host>
+6.find <directory> -name "<filename>"
+7.ps aux
+8.kill <process-id>
+9.diff <file1> <file2>
+
